@@ -1,0 +1,52 @@
+{
+  "version": "1.0",
+  "author": "KakaAI System",
+  "description": "Automação inteligente da KakaAI",
+  
+  "triggers": {
+    "abrir app": {
+      "action": "open_app",
+      "package": "com.android.chrome",
+      "response": "Abrindo o navegador 🌐"
+    },
+    "tocar música": {
+      "action": "play_music",
+      "file": "/storage/emulated/0/Music/musica.mp3",
+      "response": "🎵 Tocando sua música favorita!"
+    },
+    "modo escuro": {
+      "action": "set_theme",
+      "theme": "dark",
+      "response": "Ativando modo escuro 🌙"
+    },
+    "modo claro": {
+      "action": "set_theme",
+      "theme": "light",
+      "response": "Ativando modo claro ☀️"
+    },
+    "ligar lanterna": {
+      "action": "toggle_flashlight",
+      "state": "on",
+      "response": "🔦 Lanterna ligada!"
+    },
+    "desligar lanterna": {
+      "action": "toggle_flashlight",
+      "state": "off",
+      "response": "💡 Lanterna desligada!"
+    },
+    "horas": {
+      "action": "get_time",
+      "response": "Agora são {time}"
+    },
+    "data": {
+      "action": "get_date",
+      "response": "Hoje é {date}"
+    },
+    "notificação": {
+      "action": "send_notification",
+      "title": "Aviso da KakaAI",
+      "message": "Você me pediu para te lembrar disso!",
+      "response": "Notificação enviada 🔔"
+    }
+  }
+}
