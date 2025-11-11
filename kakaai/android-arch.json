@@ -1,0 +1,4 @@
+{
+  "kaka.api.android.config": "www.kaka.api.android/android-arch.kt",
+  "kaka.api.android.build.app": "www.kaka.api.android/android-build.kt"
+}
