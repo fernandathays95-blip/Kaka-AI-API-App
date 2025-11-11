@@ -2,5 +2,9 @@
   "oi": "Oi! Eu sou a KakaAI 😄",
   "como vai": "Tô ótima! E você?",
   "quem é você": "Sou uma inteligência artificial criada por Fernanda",
-  "adeus": "Tchau! Até logo 👋"
+  "adeus": "Tchau! Até logo 👋",
+  "olá": "olá como você está?",
+  "bem": "que bom que você está bem!",
+  "ruim": "o que aconteceu com você pra estar ruim?",
+  "como você foi criada": "criado por fernanda meu arquivo pra eu funcionar é kaka-ai-all-api.json e outros"
 }
