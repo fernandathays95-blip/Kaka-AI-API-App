@@ -1,0 +1,4 @@
+{
+  "kaka.api.linux.config": "www.kaka.api.linux/linux-arch.c",
+  "kaka.api.linux.build.app": "www.kaka.api.linux/linux-build.c"
+}
