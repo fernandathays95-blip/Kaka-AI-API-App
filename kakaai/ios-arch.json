@@ -1,0 +1,4 @@
+{
+  "kaka.api.ios.config": "www.kaka.api.ios/ios-arch.swift",
+  "kaka.api.ios.build.app": "www.kaka.api.ios/ios-build.swift"
+}
