@@ -1,5 +1,7 @@
 {
   "kaka.api.server.link": "https://github.com/fernandathays95-blip/Kaka-AI-API-App/tree/main",
   "kaka.api.extern.api.cpu.link": "www.kaka.api.cpu.device.api.com.br",
-  "kaka.api.exten.api.gpu.link": "www.kaka.api.gpu.ai.device.com.br"
+  "kaka.api.extern.api.gpu.link": "www.kaka.api.gpu.ai.device.com.br",
+  "kaka.api.extern.api.hd.pc.link": "www.kaka.api.hd.pc.device.disk.c.com.br",
+  "kaka.api.extern.api.chip.link": "www.kaka.api.chip.device.com.br"
 }
