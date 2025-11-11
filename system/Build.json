@@ -9,5 +9,9 @@
   "power_saving_limit": 30
 }
 {  "coment0": "ORIGINAL FACTORY KAKA BUILD",
-   "ro.kaka.system.id": "factory.kaka.id
+   "ro.kaka.system.id": "factory.kaka.id.arm64",
+  "ro.kaka.system.power.manager": "Kaka.power.manager",
+  "ro.kaka.system.config": "kaka.factory.name.kaka.factory",
+  "ro.kaka.system.model.name": "Kaka K1S Galaxy",
+  "ro.kaka.system.build.number": "KAKA20303ODKFO930@3042929"
 }
