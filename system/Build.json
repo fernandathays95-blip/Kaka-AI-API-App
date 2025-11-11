@@ -13,5 +13,16 @@
   "ro.kaka.system.power.manager": "Kaka.power.manager",
   "ro.kaka.system.config": "kaka.factory.name.kaka.factory",
   "ro.kaka.system.model.name": "Kaka K1S Galaxy",
-  "ro.kaka.system.build.number": "KAKA20303ODKFO930@3042929"
+  "ro.kaka.system.build.number": "KAKA20303ODKFO930@3042929",
+  "ro.kaka.system.speaker.volume.factory": "100%",
+  "ro.kaka.system.lcd.sun": "44",
+  "ro.kaka.system.speaker": "Kaka speaker 10v",
+  "ro.kaka.system.usb.debug": "debug PC WINDOWS 11",
+  "ro.kaka.system.usb0": "A",
+  "ro.kaka.system.usb1": "B",
+  "ro.kaka.system.usb2": "Mini B",
+  "ro.kaka.system.main.usb": "C",
+  "ro.kaka.system.microphone.main": "Microphone Number 0",
+  "ro.kaka.system.lcd.main": "LCD number 0",
+  "ro.kaka.system.main.ui": "Ui kaka Main"
 }
