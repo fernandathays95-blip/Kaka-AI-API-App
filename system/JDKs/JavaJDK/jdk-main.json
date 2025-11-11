@@ -1,0 +1,4 @@
+{
+  "kaka.api.system.java.jdk.link": "https://github.com/openjdk/jdk",
+  "kaka.api.system.java.jdk.build.file.name": "system/jdk/java.jdk"
+}
