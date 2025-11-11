@@ -1,0 +1,7 @@
+{
+  "arquivo de api": "kakaai/kaka-ai-all-api.json",
+"ler arquivo": "kakaai/kaka-ai-all-api.json",
+  "se não ler o arquivo aparecer": "erro a ler kakaai/kaka-ai-all-api.json continuar?",
+  "kaka.api.vel.response": "10s",
+  "kaka.api.vel.image.create": "22s"
+}
