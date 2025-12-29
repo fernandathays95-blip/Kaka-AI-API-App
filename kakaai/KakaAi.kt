@@ -37,7 +37,7 @@ class KakaAi : AppCompatActivity() {
     private fun callKakaApi(userMessage: String) {
         thread {
             try {
-                val url = URL("https://github.com/fernandathays95-blip/Kaka-AI-API-App/blob/main/kakaai/kaka-ai-all-api.json") // vai ser o seu arquivo
+                val url = URL("https://raw.githubusercontent.com/fernandathays95-blip/Kaka-AI-API-App/main/kakaai/kaka-ai-all-api.json") // vai ser o seu arquivo
                 val connection = url.openConnection() as HttpURLConnection
                 connection.requestMethod = "GET"
 
